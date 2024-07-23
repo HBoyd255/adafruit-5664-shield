@@ -4610,7 +4610,7 @@
 		)
 		(fp_arc
 			(start 0.3 -0.799998)
-			(mid -0.000001 -0.524966)
+			(mid -0.000001 -0.524967)
 			(end -0.3 -0.8)
 			(stroke
 				(width 0.1016)
@@ -5529,7 +5529,7 @@
 		(uuid "0a6cfd65-3e46-4b7f-9486-926a60891d1d")
 		(at 151.0411 96.7486 90)
 		(property "Reference" "TP6"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
@@ -5542,7 +5542,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5555,7 +5555,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5568,7 +5568,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5581,7 +5581,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5609,7 +5609,7 @@
 		(uuid "0ec591b1-0d2c-4ded-86ab-2f13a0d26a01")
 		(at 141.0081 109.1946 90)
 		(property "Reference" "PLABEL17"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
@@ -5622,7 +5622,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5635,7 +5635,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5648,7 +5648,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5661,7 +5661,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5749,7 +5749,7 @@
 		(uuid "1265eeb1-66c5-465a-b98c-66dcbcce9d2b")
 		(at 153.5811 96.7486 90)
 		(property "Reference" "TP5"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
@@ -5762,7 +5762,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5775,7 +5775,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5788,7 +5788,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5801,7 +5801,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5829,7 +5829,7 @@
 		(uuid "1a0d64eb-7355-48b6-99a3-bca409b8f3a6")
 		(at 143.4211 96.7486 90)
 		(property "Reference" "TP8"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
@@ -5842,7 +5842,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5855,7 +5855,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5868,7 +5868,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5881,7 +5881,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5909,7 +5909,7 @@
 		(uuid "2c49b9fd-6067-4ded-94e1-1c9e832dbcb4")
 		(at 152.8826 106.9721 90)
 		(property "Reference" "PLABEL10"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
@@ -5922,7 +5922,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5935,7 +5935,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5948,7 +5948,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5961,7 +5961,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6075,7 +6075,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6088,7 +6088,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6101,7 +6101,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6259,7 +6259,7 @@
 		(uuid "72aa380f-c3dc-4dd0-bd99-033abd628754")
 		(at 148.7551 106.9721 90)
 		(property "Reference" "PLABEL12"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
@@ -6272,7 +6272,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6285,7 +6285,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6298,7 +6298,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6311,7 +6311,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6539,7 +6539,7 @@
 		(uuid "8d616c2a-090c-4feb-9769-93cee672db87")
 		(at 143.4211 112.6236 90)
 		(property "Reference" "TP1"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
@@ -6552,7 +6552,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6565,7 +6565,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6578,7 +6578,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6591,7 +6591,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6619,7 +6619,7 @@
 		(uuid "a1a09385-421d-4c64-a690-88ba97a15f74")
 		(at 151.0411 111.9886 90)
 		(property "Reference" "TP3"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
@@ -6632,7 +6632,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6645,7 +6645,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6658,7 +6658,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6671,7 +6671,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -7274,7 +7274,7 @@
 		(uuid "c5eb6d81-0908-4a8c-8204-4744a969f058")
 		(at 153.5811 111.9886 90)
 		(property "Reference" "TP4"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
@@ -7287,7 +7287,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -7300,7 +7300,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -7313,7 +7313,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -7326,7 +7326,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -36738,7 +36738,7 @@
 		(uuid "d44e5af2-3c95-44a2-af71-0e902ab59f0e")
 		(at 147.1041 109.4486 90)
 		(property "Reference" "PLABEL18"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
@@ -36751,7 +36751,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -36764,7 +36764,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -36777,7 +36777,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -36790,7 +36790,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -36808,7 +36808,7 @@
 		(uuid "df402353-ea59-4d59-9dd7-97037013cf20")
 		(at 145.9611 112.6236 90)
 		(property "Reference" "TP2"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
@@ -36821,7 +36821,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -36834,7 +36834,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -36847,7 +36847,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -36860,7 +36860,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -36958,7 +36958,7 @@
 		(uuid "f4de3dcc-2560-4821-ba38-13375e30927f")
 		(at 145.9611 96.7486 90)
 		(property "Reference" "TP7"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
@@ -36971,7 +36971,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -36984,7 +36984,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -36997,7 +36997,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -37010,7 +37010,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -37108,7 +37108,7 @@
 		(uuid "f8b290c1-c803-441d-b2b0-54d69e1ef31a")
 		(at 150.9141 106.9086 90)
 		(property "Reference" "PLABEL11"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
@@ -37121,7 +37121,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -37134,7 +37134,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -37147,7 +37147,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -37160,7 +37160,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -40051,6 +40051,14 @@
 			(pts
 				(xy 161.3027 115.2652) (xy 135.6995 115.2652) (xy 135.6995 94.742) (xy 161.3027 94.742)
 			)
+		)
+	)
+	(group ""
+		(uuid "b35b5866-bf68-4f90-ad2b-9de9183e74d9")
+		(members "07324070-77d4-4be5-aca8-2eec6ab1c7df" "572263e6-33b4-4af7-a1ec-23701ada912d"
+			"99d93fc3-35e0-4262-b94b-4d6e773a0c15" "b4c7d6d7-8bb5-4da8-9530-8e19e07f4c2e"
+			"c3643bf6-6080-47ec-af64-945fba400fcb" "e6fdf94b-909a-4af9-b992-9b1222d5324d"
+			"f1d5f90c-eef5-4458-9db0-9fc8a219c225" "f6dbe569-c0ca-4fe4-b959-437ff0533ae0"
 		)
 	)
 )
