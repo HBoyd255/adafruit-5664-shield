@@ -1673,7 +1673,7 @@
 			(xyz 0 0 -90)
 		)
 	)
-	(model "C:/Users/Harry/OneDrive/04_Projects/Hardware/KiCadComponents/adafruit-5664-shield/3DModels/PCA9546 STEMMA QT.wrl"
+	(model "${Adafruit_5664_Shield}/3DModels/PCA9546 STEMMA QT.wrl"
 		(offset
 			(xyz 0 0 3)
 		)
