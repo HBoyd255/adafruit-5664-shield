@@ -1,4 +1,4 @@
-(footprint "Adafruit_PCA9546_Shield"
+(footprint "Adafruit_5664_Shield"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -67,6 +67,134 @@
 		)
 	)
 	(attr through_hole)
+	(fp_line
+		(start -10.12 -10.32)
+		(end -10.12 10)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2977462b-adee-4db5-bb9f-6f5db9aa1d04")
+	)
+	(fp_line
+		(start -7.58 12.54)
+		(end 7.66 12.54)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "64fd7995-6f67-41d0-9ab2-06057f90ba66")
+	)
+	(fp_line
+		(start 7.66 -12.86)
+		(end -7.58 -12.86)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6452a222-7dbf-431b-bee2-8f718b9ad350")
+	)
+	(fp_line
+		(start 10.2 10)
+		(end 10.2 -10.32)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d74f383f-4789-4b5e-9757-24ca6d86d262")
+	)
+	(fp_arc
+		(start -10.12 -10.32)
+		(mid -9.376051 -12.116051)
+		(end -7.58 -12.86)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "338f08b1-5731-4c3c-ac6d-107ce76e5422")
+	)
+	(fp_arc
+		(start -7.58 12.54)
+		(mid -9.376051 11.796051)
+		(end -10.12 10)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fd07ff8b-f23c-4a38-978a-9187280e70a8")
+	)
+	(fp_arc
+		(start 7.66 -12.86)
+		(mid 9.456051 -12.116051)
+		(end 10.2 -10.32)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0e0bf143-b242-4d55-a977-857eede8ccd6")
+	)
+	(fp_arc
+		(start 10.2 10)
+		(mid 9.456051 11.796051)
+		(end 7.66 12.54)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "54ecf107-ecfe-4aab-9093-a884b457c57b")
+	)
+	(fp_circle
+		(center -7.58 -10.32)
+		(end -6.33 -10.32)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "7f86f720-fe0f-414a-9fc6-b73c235b72da")
+	)
+	(fp_circle
+		(center -7.58 10)
+		(end -6.58 10)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "ca3f77c3-bf53-4b41-a0b4-a96b0ec45d71")
+	)
+	(fp_circle
+		(center 7.66 10)
+		(end 8.66 10)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "49c3a351-bea2-45ad-8c21-324361353f06")
+	)
+	(fp_circle
+		(center 7.788008 -10.319406)
+		(end 9.038008 -10.319406)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "bcf1397c-35bc-4939-8ceb-28c3bf0ffe6b")
+	)
 	(fp_text user "${REFERENCE}"
 		(at 0 2.5 0)
 		(unlocked yes)
@@ -77,6 +205,96 @@
 				(size 1 1)
 				(thickness 0.15)
 			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -5.04 10 90)
+		(size 1.778 1.778)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "3c2f51d9-82b2-45b6-b3b1-e20672186414")
+	)
+	(pad "2" thru_hole circle
+		(at -2.5 10 180)
+		(size 1.778 1.778)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "2aafc37f-4424-433a-8b3e-cc58bdd7bd6d")
+	)
+	(pad "2" thru_hole circle
+		(at -2.5 10 90)
+		(size 1.778 1.778)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "fd867ed5-a5af-4f68-a3a0-a0a46ce18b00")
+	)
+	(pad "3" thru_hole circle
+		(at 0.04 10 90)
+		(size 1.778 1.778)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "13bc3644-dd60-4171-994a-3b556450307f")
+	)
+	(pad "4" thru_hole circle
+		(at 2.58 10 90)
+		(size 1.778 1.778)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "05ced6ca-3929-4cc2-a512-b290af243b39")
+	)
+	(pad "5" thru_hole circle
+		(at 5.12 10 90)
+		(size 1.778 1.778)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "9d6bd9d8-9fdd-452c-86cc-4e2a444bb575")
+	)
+	(group ""
+		(uuid "ca3f35a7-7cb2-40cd-8d08-07c4fe2e5640")
+		(members "0e0bf143-b242-4d55-a977-857eede8ccd6" "2977462b-adee-4db5-bb9f-6f5db9aa1d04"
+			"338f08b1-5731-4c3c-ac6d-107ce76e5422" "54ecf107-ecfe-4aab-9093-a884b457c57b"
+			"6452a222-7dbf-431b-bee2-8f718b9ad350" "64fd7995-6f67-41d0-9ab2-06057f90ba66"
+			"d74f383f-4789-4b5e-9757-24ca6d86d262" "fd07ff8b-f23c-4a38-978a-9187280e70a8"
+		)
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x05_P2.54mm_Vertical.wrl"
+		(offset
+			(xyz -5 -10 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
+	(model "C:/Users/Harry/OneDrive/04_Projects/Hardware/KiCadComponents/adafruit-5664-shield/3DModels/PCA9546 STEMMA QT.wrl"
+		(offset
+			(xyz 0 0 3)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
 		)
 	)
 )
