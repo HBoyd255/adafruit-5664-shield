@@ -15,15 +15,15 @@ Here is what the footprint looks like in KiCad:
 
 ### Footprint
 
-![Footprint](images/Footprint.png)
+![Footprint](Images/Footprint.png)
 
 ### Silkscreen
 
-![Silkscreen](images/Silkscreen.png)
+![Silkscreen](Images/Silkscreen.png)
 
 ### 3D Model
 
-![3D Model](images/3DModel.png)
+![3D Model](Images/3DModel.png)
 
 ## Setup
 
