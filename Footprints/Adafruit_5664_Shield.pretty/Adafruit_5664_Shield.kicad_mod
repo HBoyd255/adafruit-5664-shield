@@ -1575,16 +1575,6 @@
 		(uuid "3c2f51d9-82b2-45b6-b3b1-e20672186414")
 	)
 	(pad "2" thru_hole circle
-		(at -2.5 10 180)
-		(size 1.778 1.778)
-		(drill 1)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(solder_mask_margin 0.0508)
-		(thermal_bridge_angle 0)
-		(uuid "2aafc37f-4424-433a-8b3e-cc58bdd7bd6d")
-	)
-	(pad "2" thru_hole circle
 		(at -2.5 10 90)
 		(size 1.778 1.778)
 		(drill 1)
